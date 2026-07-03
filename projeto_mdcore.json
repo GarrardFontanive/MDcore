@@ -1,0 +1,29 @@
+{
+  "material": "PLA",
+  "baseGap": 0.2,
+  "outputDir": "src/PecasGeradas",
+  "impressora": {
+    "nozzle": 0.4
+  },
+  "objetos": [
+    {
+      "tipo": "caixa",
+      "nome": "caixa_sensor",
+      "largura_mm": 80,
+      "comprimento_mm": 120,
+      "altura_mm": 40,
+      "espessura_parede_mm": 3
+    },
+    {
+      "tipo": "solido_revolucao",
+      "nome": "bocal_parametrico",
+      "perfil": "linear",
+      "altura_mm": 60,
+      "raio_base_mm": 20,
+      "raio_topo_mm": 8,
+      "amplitude_mm": 3,
+      "segmentos_radiais": 64,
+      "segmentos_altura": 40
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+solid caixa_sensor
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 80.24 0.0 0.0
+      vertex 80.24 120.24 0.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 80.24 120.24 0.0
+      vertex 0.0 120.24 0.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 0.0 3.0
+      vertex 80.24 120.24 3.0
+      vertex 80.24 0.0 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 0.0 3.0
+      vertex 0.0 120.24 3.0
+      vertex 80.24 120.24 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 0.0 3.0
+      vertex 80.24 0.0 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 80.24 0.0 3.0
+      vertex 80.24 0.0 0.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 80.24 0.0 0.0
+      vertex 80.24 0.0 3.0
+      vertex 80.24 120.24 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 80.24 0.0 0.0
+      vertex 80.24 120.24 3.0
+      vertex 80.24 120.24 0.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 80.24 120.24 0.0
+      vertex 80.24 120.24 3.0
+      vertex 0.0 120.24 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 80.24 120.24 0.0
+      vertex 0.0 120.24 3.0
+      vertex 0.0 120.24 0.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 120.24 0.0
+      vertex 0.0 120.24 3.0
+      vertex 0.0 0.0 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 120.24 0.0
+      vertex 0.0 0.0 3.0
+      vertex 0.0 0.0 0.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 0.0 3.0
+      vertex 80.24 0.0 3.0
+      vertex 80.24 3.0 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 0.0 3.0
+      vertex 80.24 3.0 3.0
+      vertex 0.0 3.0 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 0.0 40.0
+      vertex 80.24 3.0 40.0
+      vertex 80.24 0.0 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 0.0 40.0
+      vertex 0.0 3.0 40.0
+      vertex 80.24 3.0 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 0.0 3.0
+      vertex 0.0 0.0 40.0
+      vertex 80.24 0.0 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 0.0 3.0
+      vertex 80.24 0.0 40.0
+      vertex 80.24 0.0 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 80.24 0.0 3.0
+      vertex 80.24 0.0 40.0
+      vertex 80.24 3.0 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 80.24 0.0 3.0
+      vertex 80.24 3.0 40.0
+      vertex 80.24 3.0 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 80.24 3.0 3.0
+      vertex 80.24 3.0 40.0
+      vertex 0.0 3.0 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 80.24 3.0 3.0
+      vertex 0.0 3.0 40.0
+      vertex 0.0 3.0 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 3.0 3.0
+      vertex 0.0 3.0 40.0
+      vertex 0.0 0.0 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 3.0 3.0
+      vertex 0.0 0.0 40.0
+      vertex 0.0 0.0 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 117.24 3.0
+      vertex 80.24 117.24 3.0
+      vertex 80.24 120.24 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 117.24 3.0
+      vertex 80.24 120.24 3.0
+      vertex 0.0 120.24 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 117.24 40.0
+      vertex 80.24 120.24 40.0
+      vertex 80.24 117.24 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 117.24 40.0
+      vertex 0.0 120.24 40.0
+      vertex 80.24 120.24 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 117.24 3.0
+      vertex 0.0 117.24 40.0
+      vertex 80.24 117.24 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 117.24 3.0
+      vertex 80.24 117.24 40.0
+      vertex 80.24 117.24 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 80.24 117.24 3.0
+      vertex 80.24 117.24 40.0
+      vertex 80.24 120.24 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 80.24 117.24 3.0
+      vertex 80.24 120.24 40.0
+      vertex 80.24 120.24 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 80.24 120.24 3.0
+      vertex 80.24 120.24 40.0
+      vertex 0.0 120.24 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 80.24 120.24 3.0
+      vertex 0.0 120.24 40.0
+      vertex 0.0 120.24 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 120.24 3.0
+      vertex 0.0 120.24 40.0
+      vertex 0.0 117.24 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 120.24 3.0
+      vertex 0.0 117.24 40.0
+      vertex 0.0 117.24 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 3.0 3.0
+      vertex 3.0 3.0 3.0
+      vertex 3.0 117.24 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 3.0 3.0
+      vertex 3.0 117.24 3.0
+      vertex 0.0 117.24 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 3.0 40.0
+      vertex 3.0 117.24 40.0
+      vertex 3.0 3.0 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 3.0 40.0
+      vertex 0.0 117.24 40.0
+      vertex 3.0 117.24 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 3.0 3.0
+      vertex 0.0 3.0 40.0
+      vertex 3.0 3.0 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 3.0 3.0
+      vertex 3.0 3.0 40.0
+      vertex 3.0 3.0 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 3.0 3.0 3.0
+      vertex 3.0 3.0 40.0
+      vertex 3.0 117.24 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 3.0 3.0 3.0
+      vertex 3.0 117.24 40.0
+      vertex 3.0 117.24 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 3.0 117.24 3.0
+      vertex 3.0 117.24 40.0
+      vertex 0.0 117.24 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 3.0 117.24 3.0
+      vertex 0.0 117.24 40.0
+      vertex 0.0 117.24 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 117.24 3.0
+      vertex 0.0 117.24 40.0
+      vertex 0.0 3.0 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0.0 117.24 3.0
+      vertex 0.0 3.0 40.0
+      vertex 0.0 3.0 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 77.24 3.0 3.0
+      vertex 80.24 3.0 3.0
+      vertex 80.24 117.24 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 77.24 3.0 3.0
+      vertex 80.24 117.24 3.0
+      vertex 77.24 117.24 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 77.24 3.0 40.0
+      vertex 80.24 117.24 40.0
+      vertex 80.24 3.0 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 77.24 3.0 40.0
+      vertex 77.24 117.24 40.0
+      vertex 80.24 117.24 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 77.24 3.0 3.0
+      vertex 77.24 3.0 40.0
+      vertex 80.24 3.0 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 77.24 3.0 3.0
+      vertex 80.24 3.0 40.0
+      vertex 80.24 3.0 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 80.24 3.0 3.0
+      vertex 80.24 3.0 40.0
+      vertex 80.24 117.24 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 80.24 3.0 3.0
+      vertex 80.24 117.24 40.0
+      vertex 80.24 117.24 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 80.24 117.24 3.0
+      vertex 80.24 117.24 40.0
+      vertex 77.24 117.24 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 80.24 117.24 3.0
+      vertex 77.24 117.24 40.0
+      vertex 77.24 117.24 3.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 77.24 117.24 3.0
+      vertex 77.24 117.24 40.0
+      vertex 77.24 3.0 40.0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 77.24 117.24 3.0
+      vertex 77.24 3.0 40.0
+      vertex 77.24 3.0 3.0
+    endloop
+  endfacet
+endsolid caixa_sensor
